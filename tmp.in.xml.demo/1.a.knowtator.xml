@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="1.a">
+  <annotation>
+    <mention id="ccp_annotation_Instance_12584" />
+    <span start="27" end="35" />
+    <spannedText>anaphase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="ccp_annotation_Instance_12590" />
+    <span start="594" end="605" />
+    <spannedText>"anaphase",</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="ccp_annotation_Instance_12596" />
+    <span start="390" end="397" />
+    <spannedText>mitotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="ccp_annotation_Instance_12602" />
+    <span start="1054" end="1062" />
+    <spannedText>anaphase</spannedText>
+  </annotation>
+  <classMention id="ccp_annotation_Instance_12590">
+    <mentionClass id="TIMEXCCP">TIMEXCCP</mentionClass>
+    <hasSlotMention id="ccp_annotation_Instance_12622" />
+  </classMention>
+  <stringSlotMention id="ccp_annotation_Instance_12622">
+    <mentionSlot id="val" />
+    <stringSlotMentionValue value="anaphase" />
+  </stringSlotMention>
+  <classMention id="ccp_annotation_Instance_12596">
+    <mentionClass id="TIMEXCCP">TIMEXCCP</mentionClass>
+    <hasSlotMention id="ccp_annotation_Instance_12615" />
+  </classMention>
+  <stringSlotMention id="ccp_annotation_Instance_12615">
+    <mentionSlot id="val" />
+    <stringSlotMentionValue value="anaphase" />
+  </stringSlotMention>
+  <classMention id="ccp_annotation_Instance_12602">
+    <mentionClass id="TIMEXCCP">TIMEXCCP</mentionClass>
+    <hasSlotMention id="ccp_annotation_Instance_12626" />
+  </classMention>
+  <stringSlotMention id="ccp_annotation_Instance_12626">
+    <mentionSlot id="val" />
+    <stringSlotMentionValue value="anaphase" />
+  </stringSlotMention>
+  <classMention id="ccp_annotation_Instance_12584">
+    <mentionClass id="TIMEXCCP">TIMEXCCP</mentionClass>
+    <hasSlotMention id="ccp_annotation_Instance_12611" />
+  </classMention>
+  <stringSlotMention id="ccp_annotation_Instance_12611">
+    <mentionSlot id="val" />
+    <stringSlotMentionValue value="anaphase" />
+  </stringSlotMention>
+</annotations>
+
